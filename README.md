@@ -1,5 +1,5 @@
 # spring-boot-http
-使用spring boot封装okhttp注解式调用
+本项目通过对Interface进行便捷透明的代理并注册到Spring容器
 
 项目中引用maven坐标使用：
 <dependency>
